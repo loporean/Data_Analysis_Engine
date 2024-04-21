@@ -21,7 +21,7 @@ The Data Analysis Engine is a Python script developed to analyze CSV files effic
 
 3. Run the Python script:
    ```bash
-   python dataAnalysis.py
+   python DataAnalysis.py
    ```
 
 4. Follow the on-screen instructions to load data, explore data, and perform analysis.
@@ -29,9 +29,4 @@ The Data Analysis Engine is a Python script developed to analyze CSV files effic
 ## Requirements
 - Python 3.x
 
-## Author
-This project was developed by [your name].
-
-## Acknowledgements
-This project was inspired by [source of inspiration, if any].
 
